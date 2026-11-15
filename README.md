@@ -25,6 +25,10 @@ Maintained by RankControl, an AI SEO and AEO platform. Entries link to the prima
 - [Chrome Web Store, Grammarly extension](https://chromewebstore.google.com/detail/grammarly-ai-writing-assi/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Store listing with 40,000,000 users and a 3.9 rating from 43.2K ratings, as of November 11, 2026.
 - [Chrome Web Store, ChatGPT search extension](https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld) - OpenAI's extension that makes ChatGPT the default search engine: 4,000,000 users, 3.3 rating from 1.6K ratings, as of November 11, 2026.
   Our write-up of the entries above: [The Most Popular AI Tools in 2026, Ranked Four Different Ways](https://medium.com/@thesearchshift/the-most-popular-ai-tools-in-2026-ranked-four-different-ways-bab8287ca7f0).
+- [McKinsey, The state of AI in 2026](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) - Survey of 1,719 participants in 97 nations, May 4 to June 8, 2026: nearly nine in ten use AI regularly in at least one business function, and 37% report some EBIT impact, as of August 25, 2026.
+- [Pew Research, Americans and AI 2026](https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/) - Survey of 5,119 US adults, February 17 to 23, 2026: about half use AI chatbots, up from a third in 2024, as of June 17, 2026.
+- [Content Marketing Institute, B2B content marketing trends research](https://contentmarketinginstitute.com/b2b-research/b2b-content-marketing-trends-research) - Report on 861 B2B marketers, fielded June 23 to August 11, 2026: 88% use AI content tools, as of November 4, 2026.
+  Our write-up of the entries above: [AI Statistics for Marketers in 2026 (and the Old Ones to Stop Quoting)](https://medium.com/@thesearchshift/ai-statistics-for-marketers-in-2026-and-the-old-ones-to-stop-quoting-39e620807e51).
 
 ## Comparisons
 
@@ -51,6 +55,9 @@ Pricing pages change often. Each entry gives the figures as read on the date sho
 - [Google Search Console Help, impressions, position and clicks](https://support.google.com/webmasters/answer/7042828) - Defines average position as the average of the position recorded for every impression, as of November 11, 2026.
 - [Google Search Console Help, Performance report](https://support.google.com/webmasters/answer/7576553) - Notes that results depend on the time, place, device and recent history of the person searching, as of November 11, 2026.
   Our write-up of the entries above: [Best Rank Tracking Software in 2026: 10 Tools, $4 to $400 a Month](https://medium.com/@thesearchshift/best-rank-tracking-software-in-2026-10-tools-4-to-400-a-month-8c6949af998c).
+- [Google Search Central, Spam policies](https://developers.google.com/search/docs/essentials/spam-policies) - Defines scaled content abuse as many pages generated mainly to manipulate rankings, however they are made, as of August 28, 2026.
+- [Google Search Central, Using generative AI content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content) - Says generative AI can help with research and structure, but many pages made without adding value may break the spam policies, as of October 1, 2026.
+  Our write-up of the entries above: [Content Automation Platforms in 2026: Which Ones Plan, Write and Publish](https://medium.com/@thesearchshift/content-automation-platforms-in-2026-which-ones-plan-write-and-publish-1252ca9dbd89).
 
 ## Our open datasets
 
